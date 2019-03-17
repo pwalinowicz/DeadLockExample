@@ -1,2 +1,2 @@
 # DeadLockExample
-Just simple exercises with deadlocks
+Just simple exercises with threads, locks etc.
